@@ -1,0 +1,42 @@
+graph TD
+    A[Prensa Libre] --> B[Sitio Web]
+    A --> C[Aplicación Móvil]
+    A --> D[Correo Electrónico]
+    A --> E[Redes Sociales]
+    A --> F[Atención al Cliente]
+    A --> G[Eventos]
+    A --> H[Otros Medios]
+    
+    B --> B1[Página de Inicio]
+    B --> B2[Páginas de Noticias]
+    B --> B3[Sección de Suscripción]
+    B --> B4[Sección de Eventos]
+    B --> B5[Sección de Archivos PDF]
+    
+    C --> C1[Notificaciones Push]
+    C --> C2[Página de Inicio de la App]
+    C --> C3[Artículos]
+    C --> C4[Sección de Suscripción]
+    C --> C5[Sección de Eventos]
+    C --> C6[Descarga de PDFs]
+    
+    D --> D1[Boletines de Noticias]
+    D --> D2[Confirmación de Suscripción]
+    D --> D3[Recordatorios de Eventos]
+    D --> D4[Envío de PDFs]
+    
+    E --> E1[Facebook]
+    E --> E2[Twitter]
+    E --> E3[Instagram]
+    E --> E4[LinkedIn]
+    
+    F --> F1[Chat en Vivo]
+    F --> F2[Correo Electrónico]
+    F --> F3[Llamadas Telefónicas]
+    
+    G --> G1[Webinars]
+    G --> G2[Conferencias]
+    G --> G3[Eventos Exclusivos para Suscriptores]
+    
+    H --> H1[Publicidad Impresa]
+    H --> H2[Anuncios en Radio y Televisión]
